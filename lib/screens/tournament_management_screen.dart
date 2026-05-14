@@ -276,6 +276,7 @@ class _StandingsTab extends StatelessWidget {
             backgroundColor: const Color(0xFF183A2E),
             child: Text("${index + 1}", style: const TextStyle(color: Colors.white)),
           ),
+
           title: Text(user.name, style: const TextStyle(fontWeight: FontWeight.bold)),
           subtitle: Text("Wins: ${entry.value['wins'] ?? 0} | Points For: ${entry.value['pointsFor'] ?? 0}"),
           trailing: Text("${entry.value['pointsFor'] ?? 0} pts", style: const TextStyle(color: Colors.green, fontWeight: FontWeight.bold)),
