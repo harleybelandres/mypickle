@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389233029159",
+    "project_id": "pickletrack-268a2",
+    "storage_bucket": "pickletrack-268a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389233029159:android:5b8da762e90beca02b5e02",
+        "android_client_info": {
+          "package_name": "com.example.mypickletrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Pc9iY9YyWZaL37-XeIqdFI8WoGNu3x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
